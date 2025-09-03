@@ -1,0 +1,23 @@
+---
+layout: post
+title:  "New Post"
+date:   2025-09-03 15:43:04 +0530
+categories: my category
+---
+
+# Intentional vulnerabilities:
+
+* HTML injection
+* Cross Site Scripting
+* SQL injection
+* Insecure Direct Object Reference
+* Server Side Request Forgery
+* Information Disclosure
+* File Inclusion (Local and Remote)
+* Directory Traversal
+* Authentication Bypass
+* Race Conditions
+* Command Injection
+* Cookie Tampering
+* re CAPTCHA Bypass
+* CSS Injection

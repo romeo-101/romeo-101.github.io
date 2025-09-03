@@ -1,0 +1,10 @@
+---
+layout: post
+title:  "SMB setup in Linux"
+date:   2025-09-03 15:43:04 +0530
+categories: my category
+---
+
+## SMB setup in Linux using samba
+
+`\\ip\sambashare\`
